@@ -3,7 +3,7 @@ This repository houses a desktop app for plant owners who want to take extra att
 
 This project is made enteirly in Java and uses JavaFX for the GUI.
 I made this app for to main reasons:
- - I wanted to practice visual programming and get better with my JAva skills.
+ - I wanted to practice visual programming and get better with my Java skills.
  - I couldn't find any app that suited my needs.
 
 ### Features
