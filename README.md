@@ -2,13 +2,9 @@
 This repository houses a desktop app for plant owners who want to take extra attention of their plants.
 
 This project is made enteirly in Java and uses JavaFX for the GUI.
-
-## Table of Contents
-- [Features](#features)
-- [How to run](#how-to-run)
-- [Contribute \& feedback](#contribute--feedback)
-- [Issues \& bugs](#issues--bugs)
-- [License](#license)
+I made this app for to main reasons:
+ - I wanted to practice visual programming and get better with my JAva skills.
+ - I couldn't find any app that suited my needs.
 
 ### Features
  - Create profiles of your plants.
