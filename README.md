@@ -4,13 +4,11 @@ This repository houses a desktop app for plant owners who want to take extra att
 This project is made enteirly in Java and uses JavaFX for the GUI.
 
 ## Table of Contents
-- [PlantCare](#plantcare)
-- [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [How to run](#how-to-run)
-  - [Contribute \& feedback](#contribute--feedback)
-  - [Issues \& bugs](#issues--bugs)
-  - [License](#license)
+- [Features](#features)
+- [How to run](#how-to-run)
+- [Contribute \& feedback](#contribute--feedback)
+- [Issues \& bugs](#issues--bugs)
+- [License](#license)
 
 ### Features
  - Create profiles of your plants.
