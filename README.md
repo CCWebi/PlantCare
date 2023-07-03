@@ -1,4 +1,4 @@
-## PlantCare
+## PlantCare (UNDER CONSTRUCTION)
 This repository houses a desktop app for plant owners who want to take extra attention of their plants.
 
 This project is made enteirly in Java and uses JavaFX for the GUI.
