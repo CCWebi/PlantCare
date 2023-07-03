@@ -15,7 +15,7 @@ I made this app for to main reasons:
 At the moment, you could run it from console
 
     $ mvn install
-    $ java -jar target/PlantCare.jar
+    $ java -jar target/plantcare.jar
 
 Or run it directly from your favourite Java supported IDE.
 
