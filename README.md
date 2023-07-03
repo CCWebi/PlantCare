@@ -17,6 +17,8 @@ At the moment, you could run it from console
     $ mvn install
     $ java -jar target/PlantCare.jar
 
+Or run it directly from your favourite Java supported IDE.
+
 ### Contribute & feedback
 If you want to contribute to this project, please send an e-mail to the one at my biography. Because this is a personal proyect I don't have a formal way to contribute, but I'm open to new ideas and suggestions :).
 
